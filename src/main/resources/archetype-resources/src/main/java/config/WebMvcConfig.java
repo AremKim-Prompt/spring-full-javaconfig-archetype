@@ -17,7 +17,7 @@ import org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandl
 
 @Configuration
 @ComponentScan(basePackages = "${package}", useDefaultFilters = true)
-class WebMvcConfig extends WebMvcConfigurationSupport {
+public class WebMvcConfig extends WebMvcConfigurationSupport {
 
 	private static final String MESSAGE_SOURCE_BASE = "messages";
 
