@@ -22,7 +22,6 @@ This is Spring 4 MVC Java Configuration. Everything is XML-free.
 ###New Eclipse project
 * Go `New > Maven Project` 
 * Choose catalog as `Default Local`
-* Check **Include snapshot archetypes**
 * Select the proper archetype
 * Click next and specify groupId, artifactId, version and package
 * Wait for the workspace to finish updating
